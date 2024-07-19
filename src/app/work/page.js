@@ -5,6 +5,8 @@ import Footer from "../components/Footer.js"
 import IndividualWork from "../components/IndividualWork.js"
 import { promises as fs } from 'fs';
 
+export const dynamic = "force-dynamic";
+
 export default async function Home() {
 
     var theTextUrl = "/works-text.txt" 

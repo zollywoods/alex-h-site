@@ -6,6 +6,8 @@ import Link from "next/link";
 // const fs = require('fs');
 import { useRef } from "react";
 
+export const dynamic = "force-dynamic";
+
 export default function IndividualWork({url, title, description}) {
     
     //  fileContent = fileContent.slice(0,fileContent.lastIndexOf('3'))
