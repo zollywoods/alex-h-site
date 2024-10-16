@@ -48,22 +48,32 @@ export default async function Home() {
             oneText = theWholeFile.substring(theWholeFile.indexOf(i + ': ') + 2, theWholeFile.indexOf( i + 1 + ': ') )
             var kept = oneText.substring( 0, oneText.indexOf(",")) + ',';
             var remainder = oneText.substring(oneText.indexOf(",")+1, oneText.length);
+
+            var firstWord = kept.trim()
+            firstWord = firstWord.split(' ');
+            firstWord = firstWord[0]
+
             // oneText = kept.italics() + remainder
-            images.push( <IndividualWork url={stringNumber} title={kept} description={remainder}/>)
+            images.push( <IndividualWork url={stringNumber} title={kept} description={remainder} firstWord={firstWord}/>)
+
         }
         else{
             stringNumber = "/works/" + i + ".jpg"
             oneText = theWholeFile.substring(theWholeFile.indexOf(i + ': ') + 3, theWholeFile.indexOf( i + 1 + ': ') )
             var kept = oneText.substring( 0, oneText.indexOf(",")) + ',';
             var remainder = oneText.substring(oneText.indexOf(",")+1, oneText.length);
-            console.log("kept: " , kept)
+            // let res = kept.split(' ')[0];
+            var firstWord = kept.trim()
+            firstWord = firstWord.split(' ');
+            firstWord = firstWord[0]
+            console.log(i, " and , ", firstWord)
+            if(firstWord === "Installation"){
 
-            if(i == 58){
-                console.log("kept: " , kept)
-                // console.log("remainder: " , remainder)
+                console.log("YAY, ", i)
+                console.log(kept)
             }
             // oneText = kept + remainder
-            images.push( <IndividualWork url={stringNumber} title={kept} description={remainder}/>)
+            images.push( <IndividualWork url={stringNumber} title={kept} description={remainder} firstWord={firstWord}/>)
 
     
         }

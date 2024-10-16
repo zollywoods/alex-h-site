@@ -8,7 +8,7 @@ import { useRef } from "react";
 
 export const dynamic = "force-dynamic";
 
-export default function IndividualWork({url, title, description}) {
+export default function IndividualWork({url, title, description, firstWord}) {
     
     //  fileContent = fileContent.slice(0,fileContent.lastIndexOf('3'))
       // var text = null
@@ -38,7 +38,8 @@ export default function IndividualWork({url, title, description}) {
       </div>
 
       <div className={styles.workText}>
-        <i> {title != ',' &&  title}</i> {description}
+        { firstWord === "Installation" ?  title != ',' &&  title : <i> {title != ',' &&  title} </i>} {description}
+        {/* <i> {title != ',' &&  title}</i> {description} */}
       </div>
     </div>
 
