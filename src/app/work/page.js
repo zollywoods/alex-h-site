@@ -56,6 +56,12 @@ export default async function Home() {
             oneText = theWholeFile.substring(theWholeFile.indexOf(i + ': ') + 3, theWholeFile.indexOf( i + 1 + ': ') )
             var kept = oneText.substring( 0, oneText.indexOf(",")) + ',';
             var remainder = oneText.substring(oneText.indexOf(",")+1, oneText.length);
+            console.log("kept: " , kept)
+
+            if(i == 58){
+                console.log("kept: " , kept)
+                // console.log("remainder: " , remainder)
+            }
             // oneText = kept + remainder
             images.push( <IndividualWork url={stringNumber} title={kept} description={remainder}/>)
 
