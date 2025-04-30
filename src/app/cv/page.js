@@ -126,7 +126,16 @@ Düsseldorf, Germany
         <br/>
         <h3> <i>SELECTED GROUP EXHIBITIONS </i> </h3>
         {/* <br/> */}
-
+       
+    <div className={styles.cvFlexLine}>
+            <div className={styles.cvLeft}>
+             2025
+            </div>
+            <div className={styles.cvRight}>
+                <i> Compression, </i> Temple Projects, Los Angeles, CA
+            </div>
+         </div>
+    
         <div className={styles.cvFlexLine}>
             <div className={styles.cvLeft}>
              2024
@@ -151,7 +160,7 @@ Düsseldorf, Germany
                 
             </div>
             <div className={styles.cvRight}>
-                <i> California Subject, </i> Temples, Los Angeles, CA
+                <i> Californian Subject, </i> Temple Projects, Los Angeles, CA
             </div>
          </div>
 
