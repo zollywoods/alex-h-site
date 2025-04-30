@@ -51,6 +51,15 @@ export default function CV() {
 
       <div className={styles.cvFlexLine}>
             <div className={styles.cvLeft}>
+             2025
+            </div>
+            <div className={styles.cvRight}>
+                <i> Lined Adornment,  </i> Claremont Lewis Museum, Claremont, CA
+            </div>
+        </div>
+
+      <div className={styles.cvFlexLine}>
+            <div className={styles.cvLeft}>
              2024
             </div>
             <div className={styles.cvRight}>
