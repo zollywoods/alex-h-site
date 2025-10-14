@@ -48,7 +48,16 @@ export default function CV() {
 
         <br/>
         <h3> <i>SOLO EXHIBITIONS </i> </h3>
-
+        
+    <div className={styles.cvFlexLine}>
+            <div className={styles.cvLeft}>
+             2025
+            </div>
+            <div className={styles.cvRight}>
+                <i> All Systems Fail,  </i> as-is gallery, Los Angeles, CA
+            </div>
+        </div>
+        
       <div className={styles.cvFlexLine}>
             <div className={styles.cvLeft}>
              2025
