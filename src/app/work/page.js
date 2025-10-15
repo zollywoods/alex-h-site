@@ -41,7 +41,7 @@ export default async function Home() {
 
     console.log("oneText ==> ", oneText)
     let images = []
-    for(let i = 1; i < 59; i++){
+    for(let i = 1; i < 72; i++){
         let stringNumber = i;
         if(i < 10){
             stringNumber = "/works/0" + i + ".jpg"
@@ -49,12 +49,21 @@ export default async function Home() {
             var kept = oneText.substring( 0, oneText.indexOf(",")) + ',';
             var remainder = oneText.substring(oneText.indexOf(",")+1, oneText.length);
 
-            var firstWord = kept.trim()
-            firstWord = firstWord.split(' ');
-            firstWord = firstWord[0]
+            var sentence = kept.trim()
+            sentence = sentence.split(' ');
+            var firstWord = sentence[0]
+
+
+            var sentenceTwo = remainder.trim()
+            sentenceTwo = sentenceTwo.split(' ');
+            var firstWordRemainder = sentenceTwo[0]
+            if(firstWordRemainder == 'detail'){
+                console.log("Remainder")
+            }
 
             // oneText = kept.italics() + remainder
-            images.push( <IndividualWork url={stringNumber} title={kept} description={remainder} firstWord={firstWord}/>)
+            images.push( <IndividualWork url={stringNumber} title={kept} description={remainder} firstWord={firstWord}/> )
+            console.log(i, " : ", remainder)
 
         }
         else{
@@ -63,15 +72,10 @@ export default async function Home() {
             var kept = oneText.substring( 0, oneText.indexOf(",")) + ',';
             var remainder = oneText.substring(oneText.indexOf(",")+1, oneText.length);
             // let res = kept.split(' ')[0];
-            var firstWord = kept.trim()
-            firstWord = firstWord.split(' ');
-            firstWord = firstWord[0]
-            console.log(i, " and , ", firstWord)
-            if(firstWord === "Installation"){
-
-                console.log("YAY, ", i)
-                console.log(kept)
-            }
+            var sentence = kept.trim()
+            sentence = sentence.split(' ');
+            var firstWord = sentence[0]
+            // console.log(i, " and , ", firstWord)
             // oneText = kept + remainder
             images.push( <IndividualWork url={stringNumber} title={kept} description={remainder} firstWord={firstWord}/>)
 

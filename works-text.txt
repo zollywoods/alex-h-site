@@ -1,59 +1,74 @@
-1: Hysteresis, Acrylic on Canvas on Panel, 63” x 42”, 2024
-2: Internal processing, Acrylic on Canvas on Panel, 63” x 42”, 2024
-3: detail from Internal processing
-4: Installation view of exhibition Assembler at Will Aballe Art Projects, 2024
-5: Casual System, Acrylic on Canvas on Panel, 20” x 28”, 2024
-6: ADA, Acrylic on Canvas on Panel, 20” x 28”, 2024
-7: Deciphering functions, Acrylic on Canvas on Panel, 20” x 28”, 2024
-8: Installation view of exhibition Assembler at Will Aballe Art Projects, 2024
-9: Enciphering functions, Acrylic on Canvas on Panel, 20” x 28”, 2024
-10: Automa, Acrylic on Canvas on Panel, 63” x 42”, 2024
-11: Installation view of exhibition Assembler at Will Aballe Art Projects, 2024
-12: Merged frame, Acrylic on Canvas on Panel, 63” x 84”, 2024
-13: detail from Merged frame
-14: Inconsistent chassis, Acrylic on Canvas on Panel, 63” x 84”, 2024
-15: detail from Inconsistent chassis
-16: Dictation, Acrylic on Canvas on Panel, 20” x 28”, 2023
-17: Phonemic, Acrylic on Canvas on Panel, 20” x 28”, 2023
-18: Trace braid, Acrylic on Canvas, 54” x 72”, 2024
-19: detail from Trace braid 
-20: Expectations and results, Acrylic on Canvas on Panel, 63” x 84”, 2023 
-21: detail from Expectations and results 
-22: Depository, Acrylic on Canvas on Panel, 63” x 84”, 2023 
-23: detail from Depository
- 24: Installation view of the exhibition Apophenic at Meliksetian Briggs, Dallas, TX, 2023
-25: Freak certainty, Acrylic on Canvas on Panel, 20” x 28”, 2023
-26: Fix, Acrylic on Canvas on Panel, 20” x 28”, 2023 
-27: Peripheral crack, Acrylic on Canvas on Panel, 20 x 28”, 2023 
-28: Dissenting, Acrylic on Canvas on Panel, 20” x 28”, 2023 
-29: Polite lassitude, Acrylic on Canvas on Panel, 20” x 28”, 2023 
-30: Installation view of the exhibition Apophenic at Meliksetian Briggs, Dallas, TX, 2023 
-31: Flag II, Acrylic on Canvas, 54” x 72”, 2023
-32: detail from Flag II 
-33: Flag III, Acrylic on Canvas, 54” x 72”, 2023 
-34: Flag V, Acrylic on Canvas, 54” x 72”, 2023 
-35: Flag I, Acrylic on Canvas, 54” x 72”, 2023 
-36: detail from Flag I
-37: Sympathetic System, Acrylic on Canvas, 54” x 72”, 2021 
-38: detail from Sympathetic System
-39: Intimate Consumer, Acrylic on Canvas, 54” x 72”, 2021
-40: detail from Intimate Consumer
-41: Faithful Mirror, Acrylic on Canvas, 54” x 72”, 2019
-42: detail from Faithful Mirror
-43: Installation view of the exhibition Time and Intent at Meliksetian Briggs, Los Angeles, CA, 2021 
-44: Faithful Reflection, Acrylic on Canvas, 54” x72”, 2020 
-45: Labor of Thought, Acrylic on Canvas, 54” x 72”, 2019 
-46: detail from Labor of Thought
-47: External and Internal Objects, Acrylic on Canvas, 54” x 72”, 2019 
-48: Faithful Mirror, Ballpoint Pen on Paper, 8.5” x 11”, 2019 
-49: High Shame, Ballpoint Pen on Paper, 8.5 x 11”, 2019
-50: Neutral Grains, Installation, 2018 
-51: Neutral Grains, Installation, 2018 
-52: Neutral Grains, Installation, 2018 
-53: Don’t, Ballpoint Pen on Paper, Clear Packing Tape, Acrylic Mirror, 13.5” x 18”, 2018 
-54: Relieve and Panic, degree and shame, Ballpoint Pen on Paper, Clear Packing Tape, Acrylic Mirror, 13.5” x 18”, 2018 
-55: I could - eventually, Ballpoint Pen on Paper, Clear Packing Tape, Acrylic Mirror, 13.5” x 18”, 2018
-56: Sit II, Ballpoint Pen on Paper, 2022, 12” x 16.5” 
-57: Sit I, Ballpoint Pen on Paper, 2022, 12” x 16.5” 
-58: Sit III, Ballpoint Pen on Paper, 2022, 12” x 16.5”
-59: Sit III, Ballpoint Pen on Paper, 2022, 12” x 16.5”
+1: The Tools Dig Deeper (Pictorial), Acrylic on Canvas on Panel, 63” x 84”, 2025
+2: Installation view of exhibition All Systems Fail at as-is gallery, 2025
+3: The Tools Dig Deeper (AntiGrid), Acrylic on Canvas on Panel, 63” x 84”, 2025
+4: detail from The Tools Dig Deeper (AntiGrid)
+5: Installation view of exhibition All Systems Fail at as-is gallery, 2025
+6: The Tools Dig Deeper (Grid), Acrylic on Canvas on Panel, 63” x 84”, 2025
+7: The Process of Putting (Pink), Acrylic on Canvas on Panel, 63” x 84”, 2025
+8: detail from Process of Putting (Pink)
+9: Installation view of exhibition All Systems Fail at as-is gallery, 2025
+10: Process of Putting, Acrylic on Canvas on Panel, 63” x 84”, 2025
+11: detail from Process of Putting 
+12: Output System, Acrylic on Canvas on Panel, 20” x 28”, 2025
+13: detail from Output System
+14: Installation view of Lined Adornment at Claremont Lewis Museum, Claremont, CA
+15: Lined Adornment, Acrylic on Canvas on Panel, 63” x 84”, 2024
+16: Installation view of Lined Adornment at Claremont Lewis Museum, Claremont, CA
+17: Flag V, Screen-print on Cotton Rag, Color Test Print, 2025
+18: Installation view of Lined Adornment at Claremont Lewis Museum, Claremont, CA
+19: Hysteresis, Acrylic on Canvas on Panel, 63” x 42”, 2024
+20: Internal processing, Acrylic on Canvas on Panel, 63” x 42”, 2024
+21: detail from Internal processing
+22: Installation view of exhibition Assembler at Wil Aballe Art Projects, 2024
+23: Casual System, Acrylic on Canvas on Panel, 20” x 28”, 2024
+24: ADA, Acrylic on Canvas on Panel, 20” x 28”, 2024
+25: Input System, Acrylic on Canvas on Panel, 20” x 28”, 2024
+26: Deciphering functions, Acrylic on Canvas on Panel, 20” x 28”, 2024
+27: Installation view of exhibition Assembler at Wil Aballe Art Projects, 2024
+28: Enciphering functions, Acrylic on Canvas on Panel, 20” x 28”, 2024
+29: Automa, Acrylic on Canvas on Panel, 63” x 42”, 2024
+30: Installation view of exhibition Assembler at Wil Aballe Art Projects, 2024
+31: Dictation, Acrylic on Canvas on Panel, 20” x 28”, 2023
+32: Phonemic, Acrylic on Canvas on Panel, 20” x 28”, 2023
+33: Expectations and results, Acrylic on Canvas on Panel, 63” x 84”, 2023
+34: detail from Expectations and results
+35: Depository, Acrylic on Canvas on Panel, 63” x 84”, 2023
+36: detail from Depository
+37: Installation view of the exhibition Apophenic at Meliksetian Briggs, Dallas, TX, 2023
+38: Freak certainty, Acrylic on Canvas on Panel, 20” x 28”, 2023
+39: Fix, Acrylic on Canvas on Panel, 20” x 28”, 2023
+40: Installation view of the exhibition Apophenic at Meliksetian Briggs, Dallas, TX, 2023
+41: Dissenting, Acrylic on Canvas on Panel, 20” x 28”, 2023
+42: Polite lassitude, Acrylic on Canvas on Panel, 20” x 28”, 2023
+43: Peripheral crack, Acrylic on Canvas on Panel, 20 x 28”, 2023
+44: Installation view of the exhibition Apophenic at Meliksetian Briggs, Dallas, TX, 2023
+45: Flag II, Acrylic on Canvas, 54” x 72”, 2023
+46: detail from Flag II
+47: Flag III, Acrylic on Canvas, 54” x 72”, 2023
+48: Flag V, Acrylic on Canvas, 54” x 72”, 2023
+49: Flag I, Acrylic on Canvas, 54” x 72”, 2023
+50: detail from Flag I
+51: Installation view of the exhibition Apophenic at Meliksetian Briggs, Dallas, TX, 2023
+52: Sympathetic System, Acrylic on Canvas, 54” x 72”, 2021
+53: detail from Sympathetic System
+54: Intimate Consumer, Acrylic on Canvas, 54” x 72”, 2021
+55: detail from Intimate Consumer
+56: Faithful Mirror, Acrylic on Canvas, 54” x 72”, 2019
+57: detail from Faithful Mirror
+58: Installation view of the exhibition Time and Intent at Meliksetian Briggs, Los Angeles, CA, 2021
+59: Faithful Reflection, Acrylic on Canvas, 54” x 72”, 2020
+60: Labor of Thought, Acrylic on Canvas, 54” x 72”, 2019
+61: detail from Labor of Thought
+62: External and Internal Objects, Acrylic on Canvas, 54” x 72”, 2019
+63: Faithful Mirror, Ballpoint Pen on Paper, 8.5” x 11”, 2019
+64: High Shame, Ballpoint Pen on Paper, 8.5 x 11”, 2019
+65: Neutral Grains, Installation, 2018
+66: Neutral Grains, Installation, 2018
+67: Neutral Grains, Installation, 2018
+68: Don’t, Ballpoint Pen on Paper, Clear Packing Tape, Acrylic Mirror, 13.5” x 18”, 2018
+69: Relieve and Panic, degree and shame, Ballpoint Pen on Paper, Clear Packing Tape, Acrylic Mirror, 13.5” x 18”, 2018
+70: I could - eventually, Ballpoint Pen on Paper, Clear Packing Tape, Acrylic Mirror, 13.5” x 18”, 2018
+71: Sit II, Ballpoint Pen on Paper, 12” x 16.5”, 2022
+72: Sit I, Ballpoint Pen on Paper, 12” x 16.5”, 2022
+73: Sit III, Ballpoint Pen on Paper, 12” x 16.5”, 2022
+74:
