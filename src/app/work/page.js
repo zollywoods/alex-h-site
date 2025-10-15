@@ -41,7 +41,7 @@ export default async function Home() {
 
     console.log("oneText ==> ", oneText)
     let images = []
-    for(let i = 1; i < 73; i++){
+    for(let i = 1; i < 59; i++){
         let stringNumber = i;
         if(i < 10){
             stringNumber = "/works/0" + i + ".jpg"
