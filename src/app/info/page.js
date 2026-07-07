@@ -10,7 +10,7 @@ export default function Home() {
     return (
         <main className={styles.infoContainer}>
             <div className={styles.info}>
-                <Link href="info@alexheilbron.com"> email </Link>  <br/>
+                <a href="mailto:info@alexheilbron.com"> email </a>  <br/>
                 <Link href="https://www.instagram.com/a.p.heilbron/"> instagram </Link> 
             </div>
 
