@@ -48,6 +48,15 @@ export default function CV() {
 
         <br/>
         <h3> <i>SOLO EXHIBITIONS </i> </h3>
+
+     <div className={styles.cvFlexLine}>
+         <div className={styles.cvLeft}>
+            2025
+            </div>
+            <div className={styles.cvRight}>
+                <i> Opening,  </i> Ochi, Los Angeles, CA
+            </div>
+        </div>
         
     <div className={styles.cvFlexLine}>
             <div className={styles.cvLeft}>
@@ -135,7 +144,26 @@ Düsseldorf, Germany
         <br/>
         <h3> <i>SELECTED GROUP EXHIBITIONS </i> </h3>
         {/* <br/> */}
-       
+
+
+    <div className={styles.cvFlexLine}>
+            <div className={styles.cvLeft}>
+             2026
+            </div>
+            <div className={styles.cvRight}>
+                <i> Never Idle, </i> Chan Gallery, Pomona College of Art, Claremont, CA
+            </div>
+         </div>
+
+    <div className={styles.cvFlexLine}>
+            <div className={styles.cvLeft}>
+             2026
+            </div>
+            <div className={styles.cvRight}>
+                <i> Pundit Dream, </i> Vasa Studio Gallery, Los Angeles, CA
+            </div>
+         </div>
+    
     <div className={styles.cvFlexLine}>
             <div className={styles.cvLeft}>
              2025
@@ -352,7 +380,6 @@ Düsseldorf, Germany
                 <i> All the Rotten Eggs In One Basket, </i> Gallery Fukai, Vancouver, BC
          </div>
          </div>
-
 
 
          <br/>
