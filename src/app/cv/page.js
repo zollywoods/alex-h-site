@@ -54,7 +54,7 @@ export default function CV() {
             2025
             </div>
             <div className={styles.cvRight}>
-                <i> Opening,  </i> Ochi, Los Angeles, CA
+                <i> Opening, </i> Ochi, Los Angeles, CA
             </div>
         </div>
         
